@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { AngularEditorConfig } from '@kolkov/angular-editor';
+import { AngularEditorConfig } from './lib/config';
 
 @Component({
   selector: 'my-app',
